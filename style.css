@@ -1,0 +1,74 @@
+body{
+    background-color: rgb(255, 255, 249);
+}
+
+
+table{
+    font-family: 'Times New Roman', Times, serif;
+    border-collapse: collapse;
+    margin: 36px auto;
+    box-shadow: 0px -1px 2px 0px rgb(56, 56, 56);
+
+}
+
+
+table td{
+    border-top: 1px solid black;
+    padding: 12px;
+    text-align: center;
+}
+
+
+.sem{
+    font-weight: bold;
+    text-align: center;
+}
+
+
+.sem-header{
+    font-weight: bold;
+    text-align: center;
+}
+
+
+table tr:nth-child(1){
+    background-color: rgb(97, 184, 243);
+}
+table tr:nth-child(2){
+    background-color: rgb(196, 197, 197);
+}
+table tr:nth-child(3){
+    background-color: rgb(158, 199, 248);
+}
+table tr:nth-child(4){
+    background-color:  rgb(158, 199, 248);
+}
+table tr:nth-child(5){
+    background-color: rgb(158, 199, 248);
+}
+table tr:nth-child(6){
+    background-color:  rgb(158, 199, 248);
+}
+table tr:nth-child(7){
+    background-color:  rgb(158, 199, 248);
+}
+table tr:nth-child(8){
+    background-color:  rgb(158, 199, 248);
+}
+table tr:nth-child(9){
+    background-color:  rgb(158, 199, 248);
+}
+table tr:nth-child(10){
+    background-color:  rgb(158, 199, 248);
+}
+
+
+table tr:hover{
+    background-color: rgb(248, 248, 147);
+}
+
+
+table ,tr,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
